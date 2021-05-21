@@ -1,3 +1,5 @@
+TRIED TO SUBMIT UNATTEMPTED CHALLENGE. SO FAR HAVE BEEN UNABLE.
+
 # Single Page Applications Sprint Challenge
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
