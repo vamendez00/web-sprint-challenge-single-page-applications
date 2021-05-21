@@ -1,4 +1,4 @@
-TRIED TO SUBMIT UNATTEMPTED CHALLENGE. SO FAR HAVE BEEN UNABLE.
+
 
 # Single Page Applications Sprint Challenge
 
